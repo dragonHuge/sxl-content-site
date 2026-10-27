@@ -1,0 +1,5 @@
+node_modules/
+.next/
+.quartz-cache/
+public/
+.DS_Store
